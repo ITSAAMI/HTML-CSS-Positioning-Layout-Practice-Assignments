@@ -16,8 +16,7 @@ In this project, students will create lists with images and texts positioned dif
 - Submit your project by placing the code in the folder with your name.
 
 ### Example Layout
-- Left: [Image] + [Text]
-- Right: [Image] + [Text]
+[Project Screenshot](/ScreenShot.png)
 
 ## Folder Structure
 Each student has their own folder where they will submit their HTML and CSS files. The structure will look like this:
