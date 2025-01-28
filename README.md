@@ -16,7 +16,9 @@ In this project, students will create lists with images and texts positioned dif
 - Submit your project by placing the code in the folder with your name.
 
 ### Example Layout
-[Project Screenshot](https://github.com/ITSAAMI/HTML-CSS-Positioning-Layout-Practice-Assignments/blob/main/images/ScreenShot.png?raw=true)
+Here is a screenshot of the website project:
+
+<img src="https://github.com/ITSAAMI/HTML-CSS-Positioning-Layout-Practice-Assignments/blob/main/images/ScreenShot.png?raw=true" alt="Project Screenshot" width="600"/>
 
 ## Folder Structure
 Each student has their own folder where they will submit their HTML and CSS files. The structure will look like this:
